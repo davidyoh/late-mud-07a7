@@ -6,9 +6,7 @@
     {
       "new_classes": ["Globe"],
       "tag": "v1",
-      "new_sqlite_classes": [
-        "gscdb"
-      ]
+      "new_sqlite_classes": ["gscdb"]
     }
   ],
   "assets": {
